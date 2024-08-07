@@ -39,7 +39,7 @@ setuptools.setup(
     description="A crypto package , including Hash-SM3/Public key encryption algorithm - SM4 / Private key encryption algorithm --SM2/ Siganature algorithm -- SM2  ", # 库描述
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https:/....", # 库的官方地址
+    url="https://github.com/ljxkkk0/Crypto_ljx", # 库的官方地址
     packages=setuptools.find_packages(),
     data_files=["requirements.txt"], # yourtools库依赖的其他库
     classifiers=[
